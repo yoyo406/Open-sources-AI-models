@@ -17,7 +17,7 @@ Qwen (Alibaba)
 Gemma (Google)
 → Small, cute… and open source? Let’s say “open-ish.” The license is restrictive, but hey—Google’s trying.
 Phi-3 (Microsoft)
-→ Tiny model, huge performance. Almost open source… except you need an Azure account to access some weights. So open. So free. 😏
+→ Tiny model, huge performance. Almost open source… except you need an Azure account to access some weights. So open. So free.
 OLMo (Allen Institute)
 → Truly open: code, data, training logs—everything’s public. The holy grail of transparency.
 Command R+ (Cohere)
