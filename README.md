@@ -22,6 +22,8 @@ OLMo (Allen Institute)
 → Truly open: code, data, training logs—everything’s public. The holy grail of transparency.
 Command R+ (Cohere)
 → Open for commercial use, optimized for RAG and agentic workflows. Yes, even Cohere cracked.
+
+
 🖼️ Open-Source Image Generation Models
 (For generating cyborg unicorns in tuxedos… because the world clearly needs that.)
 
@@ -33,6 +35,8 @@ DALL·E Mini / Craiyon
 → Open, but… charmingly amateurish—like a child’s crayon drawing.
 Kandinsky 2.2 / 3.0 (Sber AI)
 → Russian, open, surprisingly capable. Like a matryoshka doll full of features.
+
+
 🗣️ Audio / Speech / TTS Models
 (So your AI can talk in Morgan Freeman’s voice… or that of a depressed robot.)
 
@@ -42,12 +46,16 @@ Bark (Suno)
 → Generates speech, music, laughter… sometimes unsettling, but open source.
 Coqui TTS
 → A full open-source framework for text-to-speech. Train it on your own voice—if you dare.
+
+
 🧪 Other / Specialized Models
 Nomic Embed – Ultra-compact open embeddings.
 Sentence-Transformers – Reliable sentence encoders. Loyal as a golden retriever.
 Llama.cpp – Not a model, but lets you run Llama on a toaster. Almost.
 Falcon (TII UAE) – Falcon-180B was a giant… but commercial license? Complicated.
 BLOOM (BigScience) – The multilingual big sibling, 100% open, built by the community.
+
+
 ❗ Heads up, yoyo:
 “Open source” ≠ “do whatever you want.”
 Some models are source-available (e.g., Llama): you can see the code, but you can’t sell it or spy on your neighbors with it.
