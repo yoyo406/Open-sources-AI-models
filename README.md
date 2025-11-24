@@ -5,53 +5,55 @@
 ## 📖 Description
 A list of all open source AIs and their models (i think)
 
-
-## 🚦 Installation
-```bash
-git clone https://github.com/yoyo/ton-projet-ultra-secret.git
-cd ton-projet-ultra-secret
-pip install -r requirements.txt  # ou npm install, ou rien du tout si t’as la flemme
-
-🧠 Grands Modèles de Langue (LLMs) – Open Source
-(Ceux que tout le monde fine-tune en espérant devenir le prochain Zuckerberg… ou au moins automatiser ses devoirs)
+🧠 Open-Source Large Language Models (LLMs)
+(The ones everyone fine-tunes hoping to become the next Zuckerberg… or at least automate their homework.)
 
 Llama 3 (Meta)
-→ Licence semi-open (oui, c’est flou), mais autorise usage commercial sous conditions. Le chouchou du moment.
-Mistral 7B / Mixtral 8x7B / Mistral Large (en partie) (Mistral AI)
-→ Français, performants, et bien plus polis que certains modèles américains. Mixtral est un MoE (Mixture of Experts) : c’est comme avoir 8 cerveaux, mais qui bossent en alternance pour économiser l’électricité.
+→ Semi-open license (yes, it’s messy), but allows commercial use under conditions. The current darling of the scene.
+Mistral 7B / Mixtral 8x7B / Mistral Large (partially) (Mistral AI)
+→ French, efficient, and far more polite than certain American models. Mixtral is a Mixture-of-Experts (MoE): like having 8 brains that take turns working to save electricity.
 Qwen (Alibaba)
-→ La réponse chinoise à tout le reste. Qwen-72B tient la route, et la licence est plutôt permissive.
+→ China’s answer to everyone else. Qwen-72B holds its own, with a surprisingly permissive license.
 Gemma (Google)
-→ Petit, mignon, et… open source ? Euh, disons "open-ish". Licence restrictive, mais bon, Google essaye.
+→ Small, cute… and open source? Let’s say “open-ish.” The license is restrictive, but hey—Google’s trying.
 Phi-3 (Microsoft)
-→ Petit modèle, grosse performance. Presque open source… sauf que t’as besoin d’un compte Azure pour certains poids. Très open, très libre.
+→ Tiny model, huge performance. Almost open source… except you need an Azure account to access some weights. So open. So free. 😏
 OLMo (Allen Institute)
-→ Vraiment open : code, données, logs d’entraînement… tout est là. Le saint Graal de la transparence.
+→ Truly open: code, data, training logs—everything’s public. The holy grail of transparency.
 Command R+ (Cohere)
-→ Open pour usage commercial, optimisé pour RAG et agents. Oui, même Cohere a craqué.
-🖼️ Modèles de Génération d’Images
-(Pour créer des licornes cyborgs en smoking… parce que le monde en a besoin)
+→ Open for commercial use, optimized for RAG and agentic workflows. Yes, even Cohere cracked.
+🖼️ Open-Source Image Generation Models
+(For generating cyborg unicorns in tuxedos… because the world clearly needs that.)
 
 Stable Diffusion 3 / SDXL / SD 1.5 (Stability AI)
-→ Le grand classique. Open weights, licence commerciale autorisée (mais vérifie la version).
+→ The classic. Open weights, commercial use allowed (check the version).
 FLUX.1 (Black Forest Labs)
-→ Nouveau venu ultra-réaliste… mais pas complètement open. Désolé, yoyo.
+→ New, hyper-realistic… but not fully open. Sorry, yoyo.
 DALL·E Mini / Craiyon
-→ Open, mais… mignon comme un dessin d’enfant qui vient de découvrir les crayons.
+→ Open, but… charmingly amateurish—like a child’s crayon drawing.
 Kandinsky 2.2 / 3.0 (Sber AI)
-→ Russe, open, et surprenant. Comme une babouchka pleine de features.
-🗣️ Modèles Audio / Voix / TTS
-(Pour que ton assistant te parle avec la voix de Morgan Freeman… ou d’un robot dépressif)
+→ Russian, open, surprisingly capable. Like a matryoshka doll full of features.
+🗣️ Audio / Speech / TTS Models
+(So your AI can talk in Morgan Freeman’s voice… or that of a depressed robot.)
 
 Whisper (OpenAI)
-→ Ironie du sort : le modèle d’OpenAI est l’un des plus open qui soit. Transcription audio → texte. Libre, puissant, partout.
+→ The irony: OpenAI gave us one of the most genuinely open models. Audio-to-text transcription, free and everywhere.
 Bark (Suno)
-→ Génère de la voix, de la musique, des rires… parfois un peu flippant, mais open source.
+→ Generates speech, music, laughter… sometimes unsettling, but open source.
 Coqui TTS
-→ Framework open source complet pour la synthèse vocale. Tu peux y entraîner ta propre voix (si tu oses).
-🧪 Autres / Spécialisés
-Nomic Embed – Embeddings open source ultra-compacts.
-Sentence-Transformers – Pour les encodages de phrases, fidèle comme un labrador.
-Llama.cpp – Pas un modèle, mais permet de faire tourner Llama sur une calculatrice. Presque.
-Falcon (TII UAE) – Falcon-180B était un géant… mais licence commerciale ? compliqué.
-BLOOM (BigScience) – Le grand frère multilingue, 100 % open, conçu par la communauté.
+→ A full open-source framework for text-to-speech. Train it on your own voice—if you dare.
+🧪 Other / Specialized Models
+Nomic Embed – Ultra-compact open embeddings.
+Sentence-Transformers – Reliable sentence encoders. Loyal as a golden retriever.
+Llama.cpp – Not a model, but lets you run Llama on a toaster. Almost.
+Falcon (TII UAE) – Falcon-180B was a giant… but commercial license? Complicated.
+BLOOM (BigScience) – The multilingual big sibling, 100% open, built by the community.
+❗ Heads up, yoyo:
+“Open source” ≠ “do whatever you want.”
+Some models are source-available (e.g., Llama): you can see the code, but you can’t sell it or spy on your neighbors with it.
+Others are open weights only: you get the model weights, but not the training data or full training pipeline.
+Always check the license before launching your startup from your bedroom.
+
+Hugging Face Open LLM Leaderboard
+Open Source AI Collective
+Replicate , Ollama Library
