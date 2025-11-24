@@ -57,13 +57,12 @@ BLOOM (BigScience) – The multilingual big sibling, 100% open, built by the com
 
 
 ❗ Heads up, yoyo:
-“Open source” ≠ “do whatever you want.”
-Some models are source-available (e.g., Llama): you can see the code, but you can’t sell it or spy on your neighbors with it.
+“Open source” Some models are source-available (e.g., Llama): you can see the code, but you can’t sell it or spy on your neighbors with it.
 Others are open weights only: you get the model weights, but not the training data or full training pipeline.
 Always check the license before launching your startup from your bedroom.
 
-Hugging Face Open LLM Leaderboard
+Hugging Face Open LLM Leaderboard.
 
-Open Source AI Collective
+Open Source AI Collective.
 
-Replicate , Ollama Library
+Replicate , Ollama Library.
