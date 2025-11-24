@@ -1,6 +1,6 @@
 # 🚀 List of open sources AI.
 
-> Un modèle d’intelligence artificielle dont le code source, les poids (weights), l’architecture, et parfois même les données d’entraînement sont librement accessibles, modifiables et redistribuables par quiconque — contrairement aux modèles propriétaires (comme ceux de certaines GAFAM) qui te disent "fais confiance, on est gentils" tout en verrouillant le coffre-fort avec un NDA de 87 pages.
+> An open-source artificial intelligence model is one whose source code, weights, architecture, and sometimes even training data are freely accessible, modifiable, and redistributable by anyone—unlike proprietary models (like those from certain Big Tech giants) that sweetly whisper, *"Just trust us, we're nice!"* while locking the vault behind an 87-page NDA.
 
 ## 📖 Description
 A list of all open source AIs and their models (i think)
