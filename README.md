@@ -56,7 +56,7 @@ Falcon (TII UAE) – Falcon-180B was a giant… but commercial license? Complica
 BLOOM (BigScience) – The multilingual big sibling, 100% open, built by the community.
 
 
-❗ Heads up, yoyo:
+❗ Heads up:
 “Open source” Some models are source-available (e.g., Llama): you can see the code, but you can’t sell it or spy on your neighbors with it.
 Others are open weights only: you get the model weights, but not the training data or full training pipeline.
 Always check the license before launching your startup from your bedroom.
