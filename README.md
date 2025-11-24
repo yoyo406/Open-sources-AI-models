@@ -63,5 +63,7 @@ Others are open weights only: you get the model weights, but not the training da
 Always check the license before launching your startup from your bedroom.
 
 Hugging Face Open LLM Leaderboard
+
 Open Source AI Collective
+
 Replicate , Ollama Library
