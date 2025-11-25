@@ -1,4 +1,4 @@
-# 🤖 Awesome Open-Source AI Models
+# 🤖 Awesome Open-Source AI Models.
 
 > A comprehensive list of open-source AI models... Because nothing says "freedom" quite like code you won't understand anyway! 😏✨
 
